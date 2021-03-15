@@ -5,19 +5,19 @@ body, html {
 }
 
 .coming_soon_box {
-    width: 300px;
-    height: 300px;
+    width: 500px;
+    height: 500px;
     position: absolute;
     top: 50%;
     left: 50%;
-    margin-top: -150px;
-    margin-left: -150px;
+    margin-top: -250px;
+    margin-left: -250px;
     /* border: 1px solid #000000; */
 }
 
 .coming_soon_text {
     text-align: center;
-    padding-top: 10%;
+    padding-top: 25%;
     font-size: 45px;
     font-family: 'Akaya Telivigala', cursive;
 }
